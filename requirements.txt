@@ -1,0 +1,12 @@
+altair
+huggingface-hub
+joblib
+matplotlib
+numpy
+pandas
+pyarrow
+PyYAML
+scikit-learn
+sentence-transformers
+streamlit
+torch
