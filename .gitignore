@@ -1,0 +1,18 @@
+#Python cache files
+__pycache__/
+*.py[cod]
+
+#PyCharm files
+.idea/
+
+#Virtual environments
+.venv/
+venv/
+
+#Raw external datasets
+experiments/Datasets/
+experiments/Datasets.zip
+
+#System files
+.DS_Store
+Thumbs.db
